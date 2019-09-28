@@ -1,0 +1,2 @@
+Type switch [ stateTopic="home/outdoor/upper_valve/state", commandTopic="home/outdoor/upper_valve", GPIO=18]
+Type number [ stateTopic="home/outdoor/temperature", source="temperature" ]
