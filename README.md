@@ -3,10 +3,9 @@
 A very simplistic, lightweight Raspberry Pi MQTT client.
 
 **Prerequisites**
+Install mosquitto and paho-mqtt.
 
-Please create two files: things.things and config.txt, copied over from the respective .example files.
-
-The things.things file has a openHAB like syntax.
+Please create two files: things.things (has a openHAB like syntax) and config.txt, copied over from the respective .example files.
 
 **Usage**
 
